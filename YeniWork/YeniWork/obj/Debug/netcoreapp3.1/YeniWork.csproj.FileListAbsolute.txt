@@ -1,0 +1,14 @@
+C:\Users\BAKU\source\repos\YeniWork\YeniWork\bin\Debug\netcoreapp3.1\YeniWork.exe
+C:\Users\BAKU\source\repos\YeniWork\YeniWork\bin\Debug\netcoreapp3.1\YeniWork.deps.json
+C:\Users\BAKU\source\repos\YeniWork\YeniWork\bin\Debug\netcoreapp3.1\YeniWork.runtimeconfig.json
+C:\Users\BAKU\source\repos\YeniWork\YeniWork\bin\Debug\netcoreapp3.1\YeniWork.runtimeconfig.dev.json
+C:\Users\BAKU\source\repos\YeniWork\YeniWork\bin\Debug\netcoreapp3.1\YeniWork.dll
+C:\Users\BAKU\source\repos\YeniWork\YeniWork\bin\Debug\netcoreapp3.1\YeniWork.pdb
+C:\Users\BAKU\source\repos\YeniWork\YeniWork\obj\Debug\netcoreapp3.1\YeniWork.csproj.AssemblyReference.cache
+C:\Users\BAKU\source\repos\YeniWork\YeniWork\obj\Debug\netcoreapp3.1\YeniWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAKU\source\repos\YeniWork\YeniWork\obj\Debug\netcoreapp3.1\YeniWork.AssemblyInfoInputs.cache
+C:\Users\BAKU\source\repos\YeniWork\YeniWork\obj\Debug\netcoreapp3.1\YeniWork.AssemblyInfo.cs
+C:\Users\BAKU\source\repos\YeniWork\YeniWork\obj\Debug\netcoreapp3.1\YeniWork.csproj.CoreCompileInputs.cache
+C:\Users\BAKU\source\repos\YeniWork\YeniWork\obj\Debug\netcoreapp3.1\YeniWork.dll
+C:\Users\BAKU\source\repos\YeniWork\YeniWork\obj\Debug\netcoreapp3.1\YeniWork.pdb
+C:\Users\BAKU\source\repos\YeniWork\YeniWork\obj\Debug\netcoreapp3.1\YeniWork.genruntimeconfig.cache
